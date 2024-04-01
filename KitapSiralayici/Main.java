@@ -23,7 +23,7 @@ public class Main {
 
         System.out.println("Kitaplar isme göre sıralı:");
         for (Book book : bookSetByName) {
-            System.out.println(book.toString());
+            System.out.println(book);
         }
 
         System.out.println();
@@ -37,7 +37,7 @@ public class Main {
 
         System.out.println("\nKitaplar sayfa sayısına göre sıralı:");
         for (Book book : bookSetByPageCount) {
-            System.out.println(book.toString());
+            System.out.println(book);
         }
     }
 }
