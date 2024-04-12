@@ -1,0 +1,2 @@
+sifirdan dosya olusturuldu ve metin yazdirildi
+yeni satira gecildi ve tekrar metin yadirildi
